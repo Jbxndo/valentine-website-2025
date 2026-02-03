@@ -29,7 +29,7 @@ const CONFIG = {
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
-            startText: "This much like the size of Pisi's ass!",                                   // Text before the percentage
+            startText: "This much like the size of the universe!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug, sum sushi and a huge kiss!",
+        message: "Now come get your gift, a big fat hug, sum sushi and a sloppy kiss!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
